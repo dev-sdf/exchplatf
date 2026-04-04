@@ -1,0 +1,17 @@
+export const CATEGORIES = [
+  "Electrónica",
+  "Hogar y muebles",
+  "Electrodomésticos",
+  "Ropa y accesorios",
+  "Deportes",
+  "Libros y música",
+  "Juguetes",
+  "Herramientas",
+  "Jardín",
+  "Vehículos y accesorios",
+  "Mascotas",
+  "Arte y manualidades",
+  "Salud y belleza",
+  "Oficina",
+  "Otro",
+];
